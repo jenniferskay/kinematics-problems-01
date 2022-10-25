@@ -5,3 +5,5 @@ This is the first colab part of a problem set to accompany my kinematics documen
 This version is the one that I gave to my robotics class in Fall 2022
 
 It also includes my graphics library and a file to demo it working
+
+however, somehow my graphics appear to be broken :-(
